@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.util.List;
 
 import dev.bahodir.myapplication.databinding.Rv2LayoutBinding;
+
 import dev.bahodir.myapplication.user.Rv2User;
 
 public class RV2 extends RecyclerView.Adapter<RV2.VH> {
